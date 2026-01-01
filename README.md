@@ -1,4 +1,4 @@
-# arch-linux-config
+# Arch Linux Config
 My configuration files for my custom Arch Linux build
 
 ![](cool_screenshot.png)
